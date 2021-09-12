@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/beautysalon/static/css/main.41fd09b2.chunk.css",
-    "main.js": "/beautysalon/static/js/main.8aa0680c.chunk.js",
-    "main.js.map": "/beautysalon/static/js/main.8aa0680c.chunk.js.map",
+    "main.css": "/beautysalon/static/css/main.6a1c592b.chunk.css",
+    "main.js": "/beautysalon/static/js/main.2c8aca27.chunk.js",
+    "main.js.map": "/beautysalon/static/js/main.2c8aca27.chunk.js.map",
     "runtime-main.js": "/beautysalon/static/js/runtime-main.b23214aa.js",
     "runtime-main.js.map": "/beautysalon/static/js/runtime-main.b23214aa.js.map",
     "static/css/2.99a5091e.chunk.css": "/beautysalon/static/css/2.99a5091e.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.88cb902f.chunk.js.map": "/beautysalon/static/js/2.88cb902f.chunk.js.map",
     "index.html": "/beautysalon/index.html",
     "static/css/2.99a5091e.chunk.css.map": "/beautysalon/static/css/2.99a5091e.chunk.css.map",
-    "static/css/main.41fd09b2.chunk.css.map": "/beautysalon/static/css/main.41fd09b2.chunk.css.map",
+    "static/css/main.6a1c592b.chunk.css.map": "/beautysalon/static/css/main.6a1c592b.chunk.css.map",
     "static/js/2.88cb902f.chunk.js.LICENSE.txt": "/beautysalon/static/js/2.88cb902f.chunk.js.LICENSE.txt",
     "static/media/hairdresser-1.e6a2b838.jpg": "/beautysalon/static/media/hairdresser-1.e6a2b838.jpg",
     "static/media/hairdresser-2.c46115a5.jpg": "/beautysalon/static/media/hairdresser-2.c46115a5.jpg",
@@ -20,7 +20,7 @@
     "static/js/runtime-main.b23214aa.js",
     "static/css/2.99a5091e.chunk.css",
     "static/js/2.88cb902f.chunk.js",
-    "static/css/main.41fd09b2.chunk.css",
-    "static/js/main.8aa0680c.chunk.js"
+    "static/css/main.6a1c592b.chunk.css",
+    "static/js/main.2c8aca27.chunk.js"
   ]
 }
