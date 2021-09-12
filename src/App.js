@@ -9,7 +9,7 @@ import { Footer } from "./components/Footer";
 
 // Icones
 import "./assets/fonts/style.css";
-import "./App.css";
+import "./App.scss";
 
 function App() {
   useEffect(() => {
