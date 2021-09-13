@@ -1,6 +1,7 @@
 import React from "react";
 import hair2 from "../../assets/fotos/hairdresser-2.jpg";
 import Fade from "react-reveal/Fade";
+import "./about.scss";
 
 export const About = () => {
   return (

@@ -1,5 +1,6 @@
 import React from "react";
 import Fade from "react-reveal/Fade";
+import "./service.scss";
 
 export const Service = () => {
   return (

@@ -10,6 +10,7 @@ import { Footer } from "./components/Footer";
 // Icones
 import "./assets/fonts/style.css";
 import "./App.scss";
+import { BackToTop } from "./components/BackToTop";
 
 function App() {
   useEffect(() => {
@@ -41,6 +42,7 @@ function App() {
   return (
     <>
       <Header />
+
       <main>
         <Home />
         <div class="divider-1"></div>
@@ -54,9 +56,8 @@ function App() {
         <div class="divider-1"></div>
         <Footer />
       </main>
-      <a href="#home" class="back-to-top">
-        <i class="icon-arrow-up"></i>
-      </a>
+
+      <BackToTop />
     </>
   );
 }

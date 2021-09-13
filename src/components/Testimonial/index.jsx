@@ -1,5 +1,6 @@
 import React from "react";
 import Zoom from "react-reveal/Zoom";
+import "./testimonial.scss";
 
 // https://swiperjs.com/react
 import SwiperCore, {

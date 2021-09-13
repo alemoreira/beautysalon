@@ -1,0 +1,14 @@
+.logo {
+  font: 700 1.31rem var(--title-font);
+  color: var(--title-color);
+
+  span {
+    color: var(--base-color);
+  }
+  
+  &-alt {
+    span {
+      color: var(--body-color);
+    }
+  }
+}

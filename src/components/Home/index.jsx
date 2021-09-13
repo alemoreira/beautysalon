@@ -2,6 +2,7 @@ import React from "react";
 import hair1 from "../../assets/fotos/hairdresser-1.jpg";
 // https://www.react-reveal.com/
 import Fade from "react-reveal/Fade";
+import "./home.scss";
 
 export const Home = () => {
   return (

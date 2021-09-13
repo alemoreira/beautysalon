@@ -1,0 +1,38 @@
+footer {
+  background: var(--base-color);
+
+  &.section {
+    padding: 4rem 0;
+  }
+  
+  .logo {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+  }
+  
+  .brand {
+    p {
+      color: var(--text-color-light);
+      margin-bottom: 0.75rem;
+    }
+  }
+  
+  i {
+    font-size: 1.5rem;
+    color: var(--text-color-light);
+  }
+  
+  .social {
+    grid-auto-flow: column;
+    width: fit-content;
+
+    a {
+      transition: 0.3s;
+      display: inline-block;
+
+      &:hover {
+        transform: translateY(-8px);
+      }
+    }
+  } 
+}

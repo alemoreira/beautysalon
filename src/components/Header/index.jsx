@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import "./header.scss";
 
 export const Header = () => {
   useEffect(() => {

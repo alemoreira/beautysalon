@@ -1,5 +1,6 @@
 import React from "react";
 import Bounce from "react-reveal/Bounce";
+import "./footer.scss";
 
 export const Footer = () => {
   return (
